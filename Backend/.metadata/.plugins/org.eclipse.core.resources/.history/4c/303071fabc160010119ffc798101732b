@@ -1,0 +1,5 @@
+package com.sharefiles.exception;
+
+public class GlobalExceptionHandler {
+
+}

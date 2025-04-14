@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="https://kit.fontawesome.com/4ee73db890.js" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+<link th:href="@{/styles/css/homeStyle.css}" rel="stylesheet" />
+</head>
+<body>
+<div class="header-test">
+	<h1 class="header-title">File Sharing App</h1>
+	<h3 class="header-line">Effortless File Sharing</h3>
+</div>
+
+<main>
+	<div class="animation-container">
+		
+		<div class="paper-airplane"> </div>
+	
+		<img th:src="#" alt="left computer" class="computer left-computer">
+		<img th:src="#" alt="right computer" class="computer right-computer">
+		
+		<div class="dotted-path">
+		
+		</div>
+	</div>
+
+</main>
+</body>
+</html>

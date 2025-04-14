@@ -1,0 +1,7 @@
+spring.application.name=FileSharingApp
+
+spring.datasource.url=jdbc:mysql:localhost:3306/cw_files_prj
+spring.datasource.username=root
+spring.datasource.password=rushi@123
+spring.jpa.hibernate.ddl-auto=update
+

@@ -1,0 +1,5 @@
+package com.sharefiles.entity;
+
+public class FileEntity {
+
+}
