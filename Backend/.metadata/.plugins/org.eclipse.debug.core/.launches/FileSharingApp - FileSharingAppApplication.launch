@@ -10,8 +10,8 @@
     <mapAttribute key="org.eclipse.debug.core.environmentVariables">
         <mapEntry key="githubID" value="Ov23liSpPVHMPmnsau7C"/>
         <mapEntry key="githubKey" value="b6d39a7efd0ac8483b6fd13da3f354227cf01c45"/>
-        <mapEntry key="googleID" value="149637246509-c2r7err3u4g5o1chuquqv3un6tp6k75t.apps.googleusercontent.com"/>
-        <mapEntry key="googleKey" value="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"/>
+        <mapEntry key="googleID" value=""/>
+        <mapEntry key="googleKey" value=""/>
     </mapAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>

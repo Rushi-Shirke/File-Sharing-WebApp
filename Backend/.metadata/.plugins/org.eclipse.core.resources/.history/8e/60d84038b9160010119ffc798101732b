@@ -1,5 +1,0 @@
-package com.sharefiles.repository;
-
-public interface FileRepository {
-
-}
