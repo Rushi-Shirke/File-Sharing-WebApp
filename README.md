@@ -51,4 +51,4 @@ Clone the repository and run in eclipse -> spring boot-> run
 - 🌐 Thymeleaf
 - 🔐 Spring Security (OAuth2 login)
 - ☁️ Google & GitHub OAuth
-- 💾 File Storage System
+- 💾 File Storage System (MySQL)
